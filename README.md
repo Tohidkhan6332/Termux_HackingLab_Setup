@@ -55,7 +55,7 @@ _Enhance Your Termux Setup for Hacking on Android with an All-in-One Solution th
 
  pkg install python3 -y
 
- git clone https://github.com/GManOfficial/Termux_HackingLab_Setup.git
+ git clone https://github.com/tohidkhan6331/Termux_HackingLab_Setup.git
 
  cd Termux_HackingLab_Setup
 
