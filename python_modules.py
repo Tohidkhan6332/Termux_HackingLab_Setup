@@ -27,9 +27,9 @@ banner = f'''{cyan}
 |   .-----.-----|  |_.---.-|  |  .-----.----.
 |.  |     |__ --|   _|  _  |  |  |  -__|   _|
 |.  |__|__|_____|____|___._|__|__|_____|__|  
-|:  |            Developer ~ @G_Man_Official                            
+|:  |            Developer ~ @Tohidkhan6332                            
 |::.|            Tool ~ Termux Hacking Lab Setup                            
-`---'            For More ~ Join | @hacking_network8
+`---'            For More ~ Join tm | @Tohid_mewati
 '''
 colour = f"{no_colour} "
 

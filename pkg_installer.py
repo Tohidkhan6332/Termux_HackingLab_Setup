@@ -39,7 +39,7 @@ try:
     print(f'{yellow}         /_____/\__,_/_.___/   /____/\___/\__/\__,_/ .___/                   ')
     print(f'{blue}                                                  /_/                        ')
     print("                         Tool Name: TermuxSetupHackingLab")
-    print("                           Developer: @G_Man_Official")
+    print("                           Developer: @Tohidkhn6332")
     print(f'{yellow}━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━')
     git_installed = subprocess.call("command -v git > /dev/null 2>&1", shell=True)
     if git_installed == 0:
@@ -162,8 +162,8 @@ try:
   |::.|                                         
   `---' ''')
     print("                       Tool Name: TermuxSetupHackingLab")
-    print("                       Developer: @G_Man_Official")
-    print(f"{cyan}                Telegram :: https://t.me/hacking_network8")
+    print("                       Developer: @Tohidlham6332")
+    print(f"{cyan}                Telegram :: https://t.me/Tohid_mewati")
     print(f'{yellow}━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━')
     print(f"{green}[+]-[Git].............................[ Installed ]")
     print(f"{green}[+]-[Python]..........................[ Installed ]")

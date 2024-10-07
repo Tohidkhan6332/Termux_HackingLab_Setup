@@ -83,9 +83,9 @@ def banner():
                     {white}        @@@@@@@@@@@@@@@@@@@@@@@@@                           
                     {white}      @@@@@@@@@@@@@@@@@@@@@@@@@@@@@                         
                     {white}    @@@@@@@   @@@@@@@@@@@@@@@@@@@@@@@                       
-                       @@@@@@@@@@   @@@@@@@@@@@@@@@@@@@@@& {cyan}| Telegram :: @hacking_network8{white}           
-                       @@@@@@@@@@@@   @@@@@@@@@@@@@@@@@@@@ {green}| Github :: @G_Man_Official{white}   
-                      .@@@@@@@@@@@@@*  &@@@@@@@@@@@@@@@@@@ {red}| Youtube :: @cyberedge8{white}     
+                       @@@@@@@@@@   @@@@@@@@@@@@@@@@@@@@@& {cyan}| Telegram :: @Tohid_mewati{white}           
+                       @@@@@@@@@@@@   @@@@@@@@@@@@@@@@@@@@ {green}| Github :: @Tohidkhan6332{white}   
+                      .@@@@@@@@@@@@@*  &@@@@@@@@@@@@@@@@@@ {red}| Youtube :: @Tohidkhan_6332{white}     
                        @@@@@@@@@@@&  ,@@@@@@@@@@@@@@@@@@@@ {yellow}| ToolName Termux HackingLab Setup{white}
                        @@@@@@@@@@   @@@@@@@@@@@@@@@@@@@@@& {blue}| Current Version :: 1.1{white}     
                         @@@@@@@   @@@@@@@/        &@@@@@@                      
